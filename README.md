@@ -1,7 +1,7 @@
 # Git_workflow_basics
 Screenshots of simple basic git commands
 
-<b>Descriptive summary of the uploaded files:</b>
+<h2><b>Descriptive summary of the uploaded files:</b></h2>
 
 file 1: Create a folder called learn_git.<br>
 file 2: Cd (change directory) into the learn_git folder.<br>
